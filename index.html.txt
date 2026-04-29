@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>与民·农业物联</title><style>body{font-family:Arial;text-align:center;padding:50px;background:#f0f7f0;}h1{color:#1a4d2a;}button{background:#2c6e3c;color:white;padding:10px 20px;border:none;border-radius:10px;margin:10px;}</style></head>
+<body><h1>🌾 与民 · 农业万物物联网</h1><p>土壤湿度: 42% | 温度: 24°C | 光照: 28500 lux</p ><button>💧 开启灌溉</button><button>🌀 开启风机</button><p style="margin-top:50px;color:gray;">yumin.asia | 科技与民，共耕未来</p ></body>
+</html>
